@@ -2,5 +2,5 @@
   "gameTitle": "Tiles Flipper 3D",
   "gameURL": "http://www.amazon.com/gp/mas/dl/android?p=com.thg.tilesflipper3d.amzn",
   "gameImageURL": "https://i.imgur.com/aPRki6d.png?1",
-  "enabled": false
+  "enabled": true
 }
